@@ -13,7 +13,6 @@ import org.springframework.context.ConfigurableApplicationContext;
 @SpringBootApplication
 public class HelloWorldApplication {
 
-	
 	public static void main(String[] args) {
 		/**
 		 *  SpringApplication.run(...) 안에서 일어나는 일
